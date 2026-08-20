@@ -1,0 +1,7 @@
+ollama installization
+
+ollama pull llma3.2
+ollama pull qwen3
+
+
+
